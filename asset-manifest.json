@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ZenitsuCard/static/css/main.f9476b2e.css",
+    "main.js": "/ZenitsuCard/static/js/main.77134f6a.js",
+    "static/media/product-img.jpg": "/ZenitsuCard/static/media/product-img.a62a81666744baccd208.jpg",
+    "static/media/bg.png": "/ZenitsuCard/static/media/bg.1e4533574f45874eb5d0.png",
+    "index.html": "/ZenitsuCard/index.html",
+    "main.f9476b2e.css.map": "/ZenitsuCard/static/css/main.f9476b2e.css.map",
+    "main.77134f6a.js.map": "/ZenitsuCard/static/js/main.77134f6a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f9476b2e.css",
+    "static/js/main.77134f6a.js"
+  ]
+}
