@@ -1,4 +1,4 @@
-# ZenitsuCard Introduction
+# Introduction
 
 Scrimba Course: React Section 1 Solo Project
 
