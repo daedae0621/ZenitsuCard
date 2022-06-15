@@ -5,7 +5,7 @@ The project is based on Scrimba's React Course [Section 1 Solo Project](https://
 
 [Live Preview](https://daedae0621.github.io/ZenitsuCard/)
 
-
+https://github.com/daedae0621/ZenitsuCard/blob/gh-pages/ZenitsuCard_Intro.jpg
 ## Technologies
 - HTML
 - CSS
